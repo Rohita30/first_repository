@@ -1,8 +1,14 @@
 HELLO GIT!!!
 
 
+<<<<<<< Updated upstream
 THIS IS FOR REVERT
 
 ** This line is for learning how to pull.
 We can only commit changes from local repository if and only if our local repository is a replica of our remote repository.
 And for making both of them same, we have to pull the changes made in remote repository. **
+=======
+THIS IS FOR REVERT.
+
+THIS LINE CAN BE COMMITTED ONLY AFTER PULLING THE CHANGES MADE IN REMOTE REPOSITORY.
+>>>>>>> Stashed changes
